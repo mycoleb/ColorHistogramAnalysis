@@ -110,7 +110,7 @@ The demo will:
 ## Understanding Color Spaces
 
 - **RGB**: The standard additive color model used in digital imaging
-- **HSV**: Represents colors in terms of Hue, Saturation, and Value, which is often more intuitive for human perception
+- **HSV**: Represents colors in terms of Hue, Saturation, and Value
 - **Lab**: A color space designed to be perceptually uniform, where L represents lightness and a, b represent color dimensions
 
 ## Histogram Comparison Methods
